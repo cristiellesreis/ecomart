@@ -1,4 +1,4 @@
-# EcoMart - Integração com a OpenAI
+# EcoMart - Integração com a OpenAI 🤖
 
 Projeto simples desenvolvido em Java como primeiro teste de integração com a API da OpenAI. O objetivo é explorar recursos de **IA generativa** aplicados a um e-commerce fictício, incluindo categorização de produtos, contagem de tokens e geração de imagens.
 
@@ -12,7 +12,7 @@ Projeto simples desenvolvido em Java como primeiro teste de integração com a A
 ## Tecnologias utilizadas
 - **Java 17+**
 - **Maven**
-- **OpenAI API**
+- **API da [OpenAI](https://platform.openai.com/docs/overview)**
 ---
 
 ## 🚀 Como executar
@@ -76,3 +76,7 @@ Link ou arquivo da imagem gerada.
 
 Este projeto foi criado para fins de aprendizado e experimentação.É necessário ter uma conta na OpenAI para obter a chave de API. A contagem de tokens e a geração de imagens podem gerar custos na sua conta da OpenAI.
 
+## Licença
+Projeto de uso educacional, livre para estudos e modificações.
+
+Desenvolvido com ☕ por Cristielle Reis
